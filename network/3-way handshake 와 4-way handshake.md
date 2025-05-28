@@ -49,7 +49,8 @@ TCP는 **신뢰성 있는 데이터 전송을 보장**하기 위해 통신을 �
 | 4    | ACK    |   ->     | 종료 확인 (클라이언트->서버)|
 
 ### 그림으로 이해하기
-<img width="273" alt="스크린샷 2025-05-27 오후 11 41 31" src="https://github.com/user-attachments/assets/3c7f55e0-d99a-4dfb-b2e6-45800afa335d" />
+<img width="323" alt="스크린샷 2025-05-28 오후 4 39 45" src="https://github.com/user-attachments/assets/ff022c58-5c89-4864-ae4c-80083068b6dd" />
+
 
 ---
 
